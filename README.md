@@ -60,7 +60,7 @@
 ## 담당한 부분
 <div align="left">
   <b>
-  <p>✔ PM으로서 프로젝트 전체에 대한 진행 관리 및 디버깅🛠</p>
+  <p>✔ PL로서 프로젝트 전체에 대한 진행 관리 및 팀원들 피드백🛠</p>
   <p>✔ DB 설계</p>
   <!--ERD 이미지 넣을 것-->
   <img src="src\main\resources\images\erd.png">
@@ -101,7 +101,7 @@
   </table>
 </div>
 
-## 기타 화면 구성
+## 화면 구성
 
 <div align="left">
    <table>
