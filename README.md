@@ -57,10 +57,33 @@
   </br>
 </div>
 
-## 담당한 부분
+## 프로잭트 설명
 <div align="left">
   <b>
-  <p>✔ PL로서 프로젝트 전체에 대한 진행 관리 및 팀원들 피드백🛠</p>
+  <p>✔ PL 프로젝트 전체에 대한 진행 관리 및 팀원들 피드백🛠</p>
+
+  ## 화면 구성
+<div align="left">
+   <table>
+    <tr>
+      <td>
+        <img src="src\main\resources\images\login.png">
+      </td>
+      <td>
+        <img src="src\main\resources\images\myPage.png">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="src\main\resources\images\infoList.png">
+      </td>
+      <td>
+        <img src="src\main\resources\images\noticeList.png">
+      </td>
+    </tr>
+  </table>
+</div>
+
   <p>✔ DB 설계</p>
   <!--ERD 이미지 넣을 것-->
   <img src="src\main\resources\images\erd.png">
@@ -96,29 +119,6 @@
     <tr>
       <td>
         <img src="src\main\resources\images\infoDetail.png">
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 화면 구성
-
-<div align="left">
-   <table>
-    <tr>
-      <td>
-        <img src="src\main\resources\images\login.png">
-      </td>
-      <td>
-        <img src="src\main\resources\images\myPage.png">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="src\main\resources\images\infoList.png">
-      </td>
-      <td>
-        <img src="src\main\resources\images\noticeList.png">
       </td>
     </tr>
   </table>
